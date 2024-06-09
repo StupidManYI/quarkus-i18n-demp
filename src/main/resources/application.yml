@@ -1,8 +1,0 @@
-quarkus:
-  profile: dev
-  application:
-    name: user-interface
-  http:
-    port: 8080
-    charset: UFT-8
-    root-path: /ingsha/v1

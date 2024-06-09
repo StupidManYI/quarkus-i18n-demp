@@ -12,8 +12,10 @@ import static io.quarkus.qute.TemplateExtension.ANY;
 public class I18nTemplateExtensions {
 
     @TemplateExtension(namespace = "i18n", matchName = ANY, matchRegex = ".*")
-    static String message(String key, @TemplateAttribute("locale") Object localeAttr) {
+    public static String message(String key, @TemplateAttribute("locale") Object localeAttr) {
         Locale locale = localeAttr instanceof Locale ? (Locale) localeAttr : Locale.getDefault();
-        return ResourceBundle.getBundle("messages", locale).getString(key);
+        return ResourceBundle
+                .getBundle("messages/messages", locale)
+                .getString(key);
     }
 }
