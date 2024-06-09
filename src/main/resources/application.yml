@@ -1,0 +1,4 @@
+quarkus:
+  native:
+    resources:
+      includes: messages/**

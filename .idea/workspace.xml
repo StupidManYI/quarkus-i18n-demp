@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1975b7ff-8971-410d-8149-c4ec64b4b1e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/acme/I18nTemplateExtensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/acme/I18nTemplateExtensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/acme/ICUMessageFormatTemplateExtensions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/acme/MessageFormatTemplateExtensions.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/messages/msg_de.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/messages/msg_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/messages_de.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages/messages_de.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages/messages_en.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/GreetingResource/hello.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708963041848</updated>
-      <workItem from="1717908152817" duration="3857000" />
+      <workItem from="1717908152817" duration="4169000" />
     </task>
     <servers />
   </component>
